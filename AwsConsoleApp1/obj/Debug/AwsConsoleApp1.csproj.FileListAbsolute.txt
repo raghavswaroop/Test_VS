@@ -1,0 +1,1 @@
+c:\users\raghav\documents\visual studio 2010\Projects\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.exe.config
